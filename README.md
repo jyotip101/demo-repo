@@ -1,3 +1,3 @@
 # demo-repo
 
-Edit in github.
+edit in github.
